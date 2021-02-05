@@ -49,6 +49,7 @@ body {
 
 .hero-inner {
     max-width: 760px;
+    justify-content: center;
 }
 
 .hero h1 {
